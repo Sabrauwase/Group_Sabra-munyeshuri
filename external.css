@@ -1,0 +1,20 @@
+p{
+    color: #05042c;
+    font-size: 16px;
+    line-height: 1.5;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: green;
+}
+ul{
+    list-style-type: square;
+    padding-left: 20px;
+    color: chartreuse;
+    background-color: aliceblue;
+}
